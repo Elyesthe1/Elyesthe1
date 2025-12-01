@@ -1,4 +1,4 @@
-# Hi, I'm Elyes — also known as Elyesthe 1
+# Hi, I'm Elyes
 
 Student, future engineer based in Nice, France.  
 Developer focused on low-level systems and game development.
