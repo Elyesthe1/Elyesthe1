@@ -8,5 +8,5 @@ Programming is both a passion and a way for me to improve every day.
 
 Interested in low-level programming, system programming, and game development fundamentals.
 
-**Languages:** C, C++, Bash  
+**Languages:** C, C++, Shell  
 **Main interests:** system programming, low-level development, game mechanics, performance and logic  
