@@ -1,4 +1,7 @@
 ## 👋 Hey, I'm Elyes
+Student, future engineer
+Based in Nice, France
+Developer focused on low-level systems and game development
 
 <!--
 **Elyesthe1/Elyesthe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
