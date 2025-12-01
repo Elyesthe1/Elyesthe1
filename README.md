@@ -1,19 +1,34 @@
-## 👋 Hey, I'm Elyes
-Student, future engineer
-Based in Nice, France
+# Hi, I'm Elyes — also known as Elyesthe 1
+
+Student, future engineer  
+Based in Nice, France  
 Developer focused on low-level systems and game development
 
-<!--
-**Elyesthe1/Elyesthe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a student developer who codes mainly for **learning and enjoyment**.  
+I enjoy taking ideas and turning them into functional programs, understanding how things work under the hood, and constantly improving my technical level.
+
+I am particularly interested in:
+- Low-level programming  
+- System programming  
+- Game development fundamentals  
+
+---
+
+## Technical Stack
+
+### Languages
+- C
+- C++
+- Bash
+
+### Main Interests
+- System programming  
+- Low-level development  
+- Game mechanics  
+- Performance and logic  
+
+Programming is both a learning tool and a passion for me.
