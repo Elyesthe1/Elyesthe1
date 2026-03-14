@@ -1,10 +1,12 @@
 # Hi, I'm Elyes
 
-22 years old, Student at 42, software engineer based in Nice, France.
-Developer focused on low-level systems and game development.
+22 years old — C/C++ developer based in Nice, France.
+Student at 42 Nice, preparing a Master's degree.
+Focused on system programming, low-level development 
+and performance-critical software.
 
-I am a student developer who codes mainly for learning and enjoyment.  
-Programming is both a passion and a way for me to improve every day. 
+**Languages:** C, C++, Bash
+**Interests:** system programming, embedded systems, 
+               CPU architecture, algorithms
 
-**Languages:** C, C++, Shell  
-**Main interests:** system programming, low-level development, game mechanics, performance and logic  
+**Current project:** ARMv4T emulator in C
